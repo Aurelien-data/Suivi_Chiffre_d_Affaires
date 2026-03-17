@@ -4,7 +4,7 @@
 
 
 Ce dashboard Power BI offre une vision fiable et à jour du chiffre d’affaires (N / N-1 / N-2), en consolidant les écritures comptables (Sage 100) et les factures de l’ERP (Batigest).
-Objectif : piloter la performance commerciale (mix FOURNI / FOURNI POSE, bureaux, clients) et suivre le DSO et les encours (échu, réglé, en cours) sur année fiscale (avril → mars).
+Objectif : piloter la performance commerciale (mix FOURNI / FOURNI POSE, bureaux, clients), suivre le DSO et les encours (échu, réglé, en cours) sur année fiscale (avril → mars).
 
 
 
