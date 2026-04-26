@@ -1,4 +1,4 @@
-# 💰 Suivi du Chiffre d’Affaires (CA) – Cas réel en PME industrielle
+# 💰 Suivi du Chiffre d’Affaires (CA)
 
 ## 🎯 **Objectif du projet**
 
